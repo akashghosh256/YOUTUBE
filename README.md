@@ -1,4 +1,4 @@
-# YOUTUBE-clone
+# YOUTUBE-Clone
 
 YouTube replica employing React.js with Tailwind CSS for the frontend design. Leveraging Rapid API, I facilitated the integration of suggested videos for the current playback. Additionally, I implemented a search functionality allowing users to explore videos. Furthermore, I optimized the website to ensure seamless performance on smartphones.
 
